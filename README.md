@@ -1,5 +1,5 @@
 # RLCS2122-Data-Analysis
-> Authors: [David Ryan](https://github.com/davidry777), [Kendrew Christanto], [Jonathan Thai], [Nicholas Chang]
+> Authors: [David Ryan](https://github.com/davidry777), [Kendrew Christanto], [Jonathan Thai](https://github.com/jonathanht), [Nicholas Chang]
 
 ## Project Description
 > Python data analysis project for finding correlations between winning matches alongside various game statistics of players that perform in the Rocket League Championship Series 2021-2022.
